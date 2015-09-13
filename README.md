@@ -1,0 +1,2 @@
+# PlaywithATGC
+ATGC Compression / Decompression 
